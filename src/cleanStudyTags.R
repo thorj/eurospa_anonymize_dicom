@@ -10,7 +10,8 @@ studyTags <-
   mutate(tag = paste0(str_sub(string = tag, start = 1, end = 4),
                        ",",
                        str_sub(string = tag, start = 5, end = 8))) %>%
-  select(name = NAME, tag)
+  select(name = NAME, tag) %>%
+  mutate(tag_par = paste0("(", tag, ")"))
 
 ### Export
 write.table(x = studyTags, 
