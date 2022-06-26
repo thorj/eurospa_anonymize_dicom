@@ -1,0 +1,38 @@
+TAG;NAME;VALUE
+0X00080080;Institution Name;‘’
+0X00080081;Institution Address;‘’
+0X00080082;Institution Code Sequence;‘’
+0X00080090;Referring Physician's Name;‘’
+0X00080092;Referring Physician's Address;‘’
+0X00080094;Referring Physician's Telephone Numbers;‘’
+0X00080096;Referring Physician Identification Sequence;‘’
+0X00081010;Station Name;‘’
+0X00081040;Institutional Department Name;‘’
+0X00081048;Physician(s) of Record;‘’
+0X00081049;Physician(s) of Record Identification Sequence;‘’
+0X00081050;Performing Physician's Name;‘’
+0X00081052;Performing Physician Identification Sequence;‘’
+0X00081060;Name of Physician(s) Reading Study;‘’
+0X00081062;Physician(s) Reading Study Identification Sequence;‘’
+0X00081070;Operators' Name;‘’
+0X00081072;Operator Identification Sequence;‘’
+0X00100032;Patient's Birth Time;‘’
+0X00100033;Patient's Birth Date in Alternative Calendar;‘’
+0X00100034;Patient's Death Date in Alternative Calendar;‘’
+0X00100050;Patient's Insurance Plan Code Sequence;‘’
+0X00101000;Other Patient IDs;‘’
+0X00101001;Other Patient Names;‘’
+0X00101002;Other Patient IDs Sequence;‘’
+0X00101040;Patient's Address;‘’
+0X00102150;Country of Residence;‘’
+0X00102152;Region of Residence;‘’
+0X00102154;Patient's Telephone Numbers;‘’
+0X00102155;Patient's Telecom Information;‘’
+0X00102160;Ethnic Group;‘’
+0X00321031;Requesting Physician Identification Sequence;‘’
+0X00321032;Requesting Physician;‘’
+0X00321033;Requesting Service;‘’
+0X00321034;Requesting Service Code Sequence;‘’
+0X00380300;Current Patient Location;‘’
+0X00380400;Patient's Institution Residence;‘’
+0X00380500;Patient State;‘’

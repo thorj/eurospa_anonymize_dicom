@@ -18,9 +18,11 @@ out <-
   mutate(tag = stri_replace_all_regex(tag, 
                                          pattern = c('\\(', '\\)'), 
                                          replacement = c('', ''),
-                                         vectorise_all = F))
+                                         vectorise_all = F),
+         atr_name = str_trunc(string = atr_name, width = 20),
+         atr_name = str_trim(string = atr_name, side = "both"))
 
 ### Export to data/
 write.table(x = out, 
             file = here("data", "dicomTags.txt"), 
-            quote = F, sep = ";", row.names = F)
+            quote = F, sep = "\t", row.names = F)

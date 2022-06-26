@@ -1,596 +1,594 @@
-atr_name;tag
-Accession Number;0008,0050
-Acquisition Comments;0018,4000
-Acquisition Context Sequence;0040,0555
-Acquisition Date;0008,0022
-Acquisition DateTime;0008,002A
-Acquisition Device Processing Description;0018,1400
-Acquisition Field Of View Label;0018,11BB
-Acquisition Protocol Description;0018,9424
-Acquisition Time;0008,0032
-Acquisition UID;0008,0017
-Actual Human Performers Sequence;0040,4035
-Additional Patient History;0010,21B0
-Address (Trial);0040,A353
-Admission ID;0038,0010
-Admitting Date;0038,0020
-Admitting Diagnoses Code Sequence;0008,1084
-Admitting Diagnoses Description;0008,1080
-Admitting Time;0038,0021
-Affected SOP Instance UID;0000,1000
-Allergies;0010,2110
-Annotation Group Description;006A,0006
-Annotation Group Label;006A,0005
-Annotation Group UID;006A,0003
-Approval Status DateTime;0044,0004
-Arbitrary;4000,0010
-Assertion DateTime;0044,0104
-Assertion Expiration DateTime;0044,0105
-Attribute Modification DateTime;0400,0562
-Author Observer Sequence;0040,A078
-Barcode Value;2200,0005
-Beam Description;300A,00C3
-Beam Hold Transition DateTime;300C,0127
-Bolus Description;300A,00DD
-Branch of Service;0010,1081
-Calibration Date;0014,407E
-Calibration DateTime;0018,1203
-Calibration Time;0014,407C
-Camera Owner Name;0016,004D
-Cassette ID;0018,1007
-Certified Timestamp;0400,0310
-Clinical Trial Coordinating Center Name;0012,0060
-Clinical Trial Protocol Ethics Committee Approval Number;0012,0082
-Clinical Trial Protocol Ethics Committee Name;0012,0081
-Clinical Trial Protocol ID;0012,0020
-Clinical Trial Protocol Name;0012,0021
-Clinical Trial Series Description;0012,0072
-Clinical Trial Series ID;0012,0071
-Clinical Trial Site ID;0012,0030
-Clinical Trial Site Name;0012,0031
-Clinical Trial Sponsor Name;0012,0010
-Clinical Trial Subject ID;0012,0040
-Clinical Trial Subject Reading ID;0012,0042
-Clinical Trial Time Point Description;0012,0051
-Clinical Trial Time Point ID;0012,0050
-Comments on Radiation Dose;0040,0310
-Comments on the Performed Procedure Step;0040,0280
-Compensator Description;300A,02EB
-Concatenation UID;0020,9161
-Conceptual Volume Combination Description;3010,000F
-Conceptual Volume Description;3010,0017
-Conceptual Volume UID;3010,0006
-Confidentiality Constraint on Patient Data Description;0040,3001
-Constituent Conceptual Volume UID;3010,0013
-Consulting Physician's Name;0008,009C
-Consulting Physician Identification Sequence;0008,009D
-Container Component ID;0050,001B
-Container Description;0040,051A
-Container Identifier;0040,0512
-Content Creator's Identification Code Sequence;0070,0086
-Content Creator's Name;0070,0084
-Content Date;0008,0023
-Content Sequence;0040,A730
-Content Time;0008,0033
-Context Group Local Version;0008,0107
-Context Group Version;0008,0106
-Contrast/Bolus Agent;0018,0010
-Contrast/Bolus Start Time;0018,1042
-Contrast/Bolus Stop Time;0018,1043
-Contribution DateTime;0018,A002
-Contribution Description;0018,A003
-Country of Residence;0010,2150
-Creation Date;2100,0040
-Creation Time;2100,0050
-Current Observer (Trial);0040,A307
-Current Patient Location;0038,0300
-Curve Data;50xx,xxxx
-Curve Date;0008,0025
-Curve Time;0008,0035
-Custodial Organization Sequence;0040,A07C
-Data Set Trailing Padding;FFFC,FFFC
-Date;0040,A121
-Date of Document or Verbal Transaction (Trial);0040,A110
-Date of Last Calibration;0018,1200
-Date of Last Detector Calibration;0018,700C
-Date of Secondary Capture;0018,1012
-DateTime;0040,A120
-DateTime of Last Calibration;0018,1202
-Decay Correction DateTime;0018,9701
-Decomposition Description;0018,937F
-Derivation Description;0008,2111
-Detector ID;0018,700A
-Device Alternate Identifier;3010,001B
-Device Description;0050,0020
-Device Label;3010,002D
-Device Serial Number;0018,1000
-Device Setting Description;0016,004B
-Device UID;0018,1002
-Digital Signature DateTime;0400,0105
-Digital Signatures Sequence;FFFA,FFFA
-Digital Signature UID;0400,0100
-Dimension Organization UID;0020,9164
-Discharge Date;0038,0030
-Discharge Diagnosis Description;0038,0040
-Discharge Time;0038,0032
-Displacement Reference Label;300A,079A
-Distribution Address;4008,011A
-Distribution Name;4008,0119
-Dose Reference Description;300A,0016
-Dose Reference UID;300A,0013
-Dosimetric Objective UID;3010,006E
-Effective DateTime;0068,6226
-End Acquisition DateTime;0018,9517
-Entity Description;3010,0037
-Entity Label;3010,0035
-Entity Long Label;3010,0038
-Entity Name;3010,0036
-Equipment Frame of Reference Description;300A,0676
-Ethics Committee Approval Effectiveness End Date;0012,0087
-Ethics Committee Approval Effectiveness Start Date;0012,0086
-Ethnic Group;0010,2160
-Exclusion Start DateTime;0018,9804
-Expected Completion DateTime;0040,4011
-Failed SOP Instance UID List;0008,0058
-Fiducial UID;0070,031A
-Filler Order Number / Imaging Service Request;0040,2017
-Findings Group Recording Date (Trial);0040,A023
-Findings Group Recording Time (Trial);0040,A024
-First Treatment Date;3008,0054
-Fixation Device Description;300A,0196
-Flow Identifier;0034,0002
-Flow Identifier Sequence;0034,0001
-Fractionation Notes;3010,007F
-Fraction Group Description;300A,0072
-Frame Acquisition DateTime;0018,9074
-Frame Comments;0020,9158
-Frame of Reference UID;0020,0052
-Frame Origin Timestamp;0034,0007
-Frame Reference DateTime;0018,9151
-Functional Sync Pulse;0018,9623
-Gantry ID;0018,1008
-Generator ID;0018,1005
-GPS Altitude​;0016,0076
-GPS Altitude​ Ref;0016,0075
-GPS Area ​Information;0016,008C
-GPS Date​ Stamp;0016,008D
-GPS Dest ​Bearing;0016,0088
-GPS Dest​ Bearing Ref;0016,0087
-GPS Dest ​Distance;0016,008A
-GPS Dest ​Distance Ref;0016,0089
-GPS Dest​ Latitude;0016,0084
-GPS Dest​ Latitude Ref;0016,0083
-GPS Dest ​Longitude;0016,0086
-GPS Dest ​Longitude Ref;0016,0085
-GPS Differential;0016,008E
-GPS DOP;0016,007B
-GPS Img ​Direction;0016,0081
-GPS Img​ Direction Ref;0016,0080
-GPS Latitude​;0016,0072
-GPS Latitude​ Ref;0016,0071
-GPS Longitude;0016,0074
-GPS Longitude Ref;0016,0073
-GPS Map​ Datum;0016,0082
-GPS Measure ​Mode;0016,007A
-GPS Processing​ Method;0016,008B
-GPS Satellites;0016,0078
-GPS Speed​;0016,007D
-GPS Speed​ Ref;0016,007C
-GPS Status;0016,0079
-GPS Time​ Stamp;0016,0077
-GPS Track;0016,007F
-GPS Track ​Ref;0016,007E
-GPS Version ID;0016,0070
-Graphic Annotation Sequence;0070,0001
-Hanging Protocol Creation DateTime;0072,000A
-HL7 Document Effective Time;0040,E004
-Human Performer's Name;0040,4037
-Human Performer's Organization;0040,4036
-Icon Image Sequence
-                                    
-                                       (see Note 12);0088,0200
-Identifying Comments;0008,4000
-Image Comments;0020,4000
-Image Presentation Comments;0028,4000
-Imaging Service Request Comments;0040,2400
-Impedance Measurement DateTime;003A,0314
-Impressions;4008,0300
-Information Issue DateTime;0068,6270
-Instance Coercion DateTime;0008,0015
-Instance Creation Date;0008,0012
-Instance Creation Time;0008,0013
-Instance Creator UID;0008,0014
-Instance Origin Status;0400,0600
-Institution Address;0008,0081
-Institutional Department Name;0008,1040
-Institutional Department Type Code Sequence;0008,1041
-Institution Code Sequence;0008,0082
-Institution Name;0008,0080
-Instruction Performed DateTime;0018,9919
-Insurance Plan Identification;0010,1050
-Intended Fraction Start Time;3010,0085
-Intended Phase End Date;3010,004D
-Intended Phase Start Date;3010,004C
-Intended Recipients of Results Identification Sequence;0040,1011
-Interlock DateTime;300A,0741
-Interlock Description;300A,0742
-Interlock Origin Description;300A,0783
-Interpretation Approval Date;4008,0112
-Interpretation Approval Time;4008,0113
-Interpretation Approver Sequence;4008,0111
-Interpretation Author;4008,010C
-Interpretation Diagnosis Description;4008,0115
-Interpretation ID;4008,0200
-Interpretation ID Issuer;4008,0202
-Interpretation Recorded Date;4008,0100
-Interpretation Recorded Time;4008,0101
-Interpretation Recorder;4008,0102
-Interpretation Text;4008,010B
-Interpretation Transcriber;4008,010A
-Interpretation Transcription Date;4008,0108
-Interpretation Transcription Time;4008,0109
-Intervention Drug Start Time;0018,0035
-Intervention Drug Stop Time;0018,0027
-Irradiation Event UID;0008,3010
-Issue Date of Imaging Service Request;0040,2004
-Issuer of Admission ID;0038,0011
-Issuer of Admission ID Sequence;0038,0014
-Issuer of Patient ID;0010,0021
-Issuer of Service Episode ID;0038,0061
-Issuer of Service Episode ID Sequence;0038,0064
-Issuer of the Container Identifier Sequence;0040,0513
-Issuer of the Specimen Identifier Sequence;0040,0562
-Issue Time of Imaging Service Request;0040,2005
-Label Text;2200,0002
-Large Palette Color Lookup Table UID;0028,1214
-Last Menstrual Date;0010,21D0
-Lens Make;0016,004F
-Lens Model;0016,0050
-Lens Serial Number;0016,0051
-Lens Specification;0016,004E
-Long Device Description;0050,0021
-MAC;0400,0404
-Maker Note;0016,002B
-Manufacturer's Device Class UID;0018,100B
-Manufacturer's Device Identifier;3010,0043
-Media Storage SOP Instance UID;0002,0003
-Medical Alerts;0010,2000
-Medical Record Locator;0010,1090
-Military Rank;0010,1080
-Modified Attributes Sequence;0400,0550
-Modified Image Date;0020,3403
-Modified Image Description;0020,3406
-Modified Image Time;0020,3405
-Modifying Device ID;0020,3401
-Modifying System;0400,0563
-Most Recent Treatment Date;3008,0056
-Multi-energy Acquisition Description;0018,937B
-Multiplex Group UID;003A,0310
-Name of Physician(s) Reading Study;0008,1060
-Names of Intended Recipients of Results;0040,1010
-Nonconforming Data Element Value;0400,0552
-Nonconforming Modified Attributes Sequence;0400,0551
-Observation Date (Trial);0040,A192
-Observation DateTime;0040,A032
-Observation Start DateTime;0040,A033
-Observation Subject UID (Trial);0040,A402
-Observation Time (Trial);0040,A193
-Observation UID;0040,A171
-Occupation;0010,2180
-Operator Identification Sequence;0008,1072
-Operators' Name;0008,1070
-Order Callback Phone Number;0040,2010
-Order Callback Telecom Information;0040,2011
-Order Entered By;0040,2008
-Order Enterer's Location;0040,2009
-Original Attributes Sequence;0400,0561
-Other Patient IDs;0010,1000
-Other Patient IDs Sequence;0010,1002
-Other Patient Names;0010,1001
-Overlay Comments;60xx,4000
-Overlay Data;60xx,3000
-Overlay Date;0008,0024
-Overlay Time;0008,0034
-Override DateTime;300A,0760
-Palette Color Lookup Table UID;0028,1199
-Participant Sequence;0040,A07A
-Participation DateTime;0040,A082
-Patient's Address;0010,1040
-Patient's Age;0010,1010
-Patient's Birth Date;0010,0030
-Patient's Birth Name;0010,1005
-Patient's Birth Time;0010,0032
-Patient's Institution Residence;0038,0400
-Patient's Insurance Plan Code Sequence;0010,0050
-Patient's Mother's Birth Name;0010,1060
-Patient's Name;0010,0010
-Patient's Primary Language Code Sequence;0010,0101
-Patient's Primary Language Modifier Code Sequence;0010,0102
-Patient's Religious Preference;0010,21F0
-Patient's Sex;0010,0040
-Patient's Sex Neutered;0010,2203
-Patient's Size;0010,1020
-Patient's Telecom Information;0010,2155
-Patient's Telephone Numbers;0010,2154
-Patient's Weight;0010,1030
-Patient Comments;0010,4000
-Patient ID;0010,0020
-Patient Setup Photo Description;300A,0794
-Patient Setup UID;300A,0650
-Patient State;0038,0500
-Patient Transport Arrangements;0040,1004
-Patient Treatment Preparation Method Description;300A,0792
-Patient Treatment Preparation Procedure Parameter Description;300A,078E
-Performed Location;0040,0243
-Performed Procedure Step Description;0040,0254
-Performed Procedure Step End Date;0040,0250
-Performed Procedure Step End DateTime;0040,4051
-Performed Procedure Step End Time;0040,0251
-Performed Procedure Step ID;0040,0253
-Performed Procedure Step Start Date;0040,0244
-Performed Procedure Step Start DateTime;0040,4050
-Performed Procedure Step Start Time;0040,0245
-Performed Station AE Title;0040,0241
-Performed Station Geographic Location Code Sequence;0040,4030
-Performed Station Name;0040,0242
-Performed Station Name Code Sequence;0040,4028
-Performing Physician's Name;0008,1050
-Performing Physician Identification Sequence;0008,1052
-Person's Address;0040,1102
-Person's Telecom Information;0040,1104
-Person's Telephone Numbers;0040,1103
-Person Identification Code Sequence;0040,1101
-Person Name;0040,A123
-Physician(s) of Record;0008,1048
-Physician(s) of Record Identification Sequence;0008,1049
-Physician(s) Reading Study Identification Sequence;0008,1062
-Physician Approving Interpretation;4008,0114
-Placer Order Number / Imaging Service Request;0040,2016
-Plate ID;0018,1004
-Pregnancy Status;0010,21C0
-Pre-Medication;0040,0012
-Prescription Description;300A,000E
-Prescription Notes;3010,007B
-Prescription Notes Sequence;3010,0081
-Presentation Creation Date;0070,0082
-Presentation Creation Time;0070,0083
-Presentation Display Collection UID;0070,1101
-Presentation Sequence Collection UID;0070,1102
-Prior Treatment Dose Description;3010,0061
-Private attributes;gggg,eeee where gggg is odd
-Procedure Step Cancellation DateTime;0040,4052
-Product Expiration DateTime;0044,000B
-Protocol Name;0018,1030
-Pyramid Description;0008,1088
-Pyramid Label;0020,0027
-Pyramid UID;0008,0019
-Radiation Dose Identification Label;300A,0619
-Radiation Dose In-Vivo Measurement Label;300A,0623
-Radiation Generation Mode Description;300A,067D
-Radiation Generation Mode Label;300A,067C
-Radiopharmaceutical Start DateTime;0018,1078
-Radiopharmaceutical Start Time;0018,1072
-Radiopharmaceutical Stop DateTime;0018,1079
-Radiopharmaceutical Stop Time;0018,1073
-Reason for Omission Description;300C,0113
-Reason for Requested Procedure Code Sequence;0040,100A
-Reason for Study;0032,1030
-Reason for Superseding;3010,005C
-Reason for the Attribute Modification;0400,0565
-Reason for the Imaging Service Request;0040,2001
-Reason for the Requested Procedure;0040,1002
-Reason for Visit;0032,1066
-Reason for Visit Code Sequence;0032,1067
-Recorded RT Control Point DateTime;300A,073A
-Referenced Conceptual Volume UID;3010,000B
-Referenced DateTime;0040,A13A
-Referenced Digital Signature Sequence;0400,0402
-Referenced Dose Reference UID;300A,0083
-Referenced Dosimetric Objective UID;3010,006F
-Referenced Fiducials UID;3010,0031
-Referenced Frame of Reference UID;3006,0024
-Referenced General Purpose Scheduled Procedure Step Transaction UID;0040,4023
-Referenced Image Sequence;0008,1140
-Referenced Observation UID (Trial);0040,A172
-Referenced Patient Alias Sequence;0038,0004
-Referenced Patient Photo Sequence;0010,1100
-Referenced Patient Sequence;0008,1120
-Referenced Performed Procedure Step Sequence;0008,1111
-Referenced SOP Instance MAC Sequence;0400,0403
-Referenced SOP Instance UID;0008,1155
-Referenced SOP Instance UID in File;0004,1511
-Referenced Study Sequence;0008,1110
-Referenced Treatment Position Group UID;300A,0785
-Referring Physician's Address;0008,0092
-Referring Physician's Name;0008,0090
-Referring Physician's Telephone Numbers;0008,0094
-Referring Physician Identification Sequence;0008,0096
-Region of Residence;0010,2152
-Related Frame of Reference UID;3006,00C2
-Request Attributes Sequence;0040,0275
-Requested Contrast Agent;0032,1070
-Requested Procedure Comments;0040,1400
-Requested Procedure Description;0032,1060
-Requested Procedure ID;0040,1001
-Requested Procedure Location;0040,1005
-Requested Series Description;0018,9937
-Requested SOP Instance UID;0000,1001
-Requesting Physician;0032,1032
-Requesting Service;0032,1033
-Respiratory Motion Compensation Technique Description;0018,9185
-Responsible Organization;0010,2299
-Responsible Person;0010,2297
-Results Comments;4008,4000
-Results Distribution List Sequence;4008,0118
-Results ID;4008,0040
-Results ID Issuer;4008,0042
-Review Date;300E,0004
-Reviewer Name;300E,0008
-Review Time;300E,0005
-ROI Description;3006,0028
-ROI Generation Description;3006,0038
-ROI Interpreter;3006,00A6
-ROI Name;3006,0026
-ROI Observation Description;3006,0088
-ROI Observation Label;3006,0085
-RT Accessory Device Slot ID;300A,0615
-RT Accessory Holder Slot ID;300A,0611
-RT Physician Intent Narrative;3010,005A
-RT Plan Date;300A,0006
-RT Plan Description;300A,0004
-RT Plan Label;300A,0002
-RT Plan Name;300A,0003
-RT Plan Time;300A,0007
-RT Prescription Label;3010,0054
-RT Tolerance Set Label;300A,062A
-RT Treatment Approach Label;3010,0056
-RT Treatment Phase UID;3010,003B
-Safe Position Exit Date;3008,0162
-Safe Position Exit Time;3008,0164
-Safe Position Return Date;3008,0166
-Safe Position Return Time;3008,0168
-Scheduled Admission Date;0038,001A
-Scheduled Admission Time;0038,001B
-Scheduled Discharge Date;0038,001C
-Scheduled Discharge Time;0038,001D
-Scheduled Human Performers Sequence;0040,4034
-Scheduled Patient Institution Residence;0038,001E
-Scheduled Performing Physician's Name;0040,0006
-Scheduled Performing Physician Identification Sequence;0040,000B
-Scheduled Procedure Step Description;0040,0007
-Scheduled Procedure Step End Date;0040,0004
-Scheduled Procedure Step End Time;0040,0005
-Scheduled Procedure Step Expiration DateTime;0040,4008
-Scheduled Procedure Step ID;0040,0009
-Scheduled Procedure Step Location;0040,0011
-Scheduled Procedure Step Modification DateTime;0040,4010
-Scheduled Procedure Step Start Date;0040,0002
-Scheduled Procedure Step Start DateTime;0040,4005
-Scheduled Procedure Step Start Time;0040,0003
-Scheduled Station AE Title;0040,0001
-Scheduled Station Geographic Location Code Sequence;0040,4027
-Scheduled Station Name;0040,0010
-Scheduled Station Name Code Sequence;0040,4025
-Scheduled Study Location;0032,1020
-Scheduled Study Location AE Title;0032,1021
-Scheduled Study Start Date;0032,1000
-Scheduled Study Start Time;0032,1001
-Scheduled Study Stop Date;0032,1010
-Scheduled Study Stop Time;0032,1011
-Selector AS Value;0072,005F
-Selector DA Value;0072,0061
-Selector DT Value;0072,0063
-Selector LO Value;0072,0066
-Selector LT Value;0072,0068
-Selector OB Value;0072,0065
-Selector PN Value;0072,006A
-Selector SH Value;0072,006C
-Selector ST Value;0072,006E
-Selector TM Value;0072,006B
-Selector UN Value;0072,006D
-Selector UR Value;0072,0071
-Selector UT Value;0072,0070
-Series Date;0008,0021
-Series Description;0008,103E
-Series Instance UID;0020,000E
-Series Time;0008,0031
-Service Episode Description;0038,0062
-Service Episode ID;0038,0060
-Setup Technique Description;300A,01B2
-Shielding Device Description;300A,01A6
-Slide Identifier;0040,06FA
-Smoking Status;0010,21A0
-SOP Authorization DateTime;0100,0420
-SOP Instance UID;0008,0018
-Source Conceptual Volume UID;3010,0015
-Source End DateTime;0018,936A
-Source Identifier;0034,0005
-Source Image Sequence;0008,2112
-Source Manufacturer;300A,0216
-Source of Previous Values;0400,0564
-Source Serial Number;3008,0105
-Source Start DateTime;0018,9369
-Source Strength Reference Date;300A,022C
-Source Strength Reference Time;300A,022E
-Special Needs;0038,0050
-Specimen Accession Number;0040,050A
-Specimen Detailed Description;0040,0602
-Specimen Identifier;0040,0551
-Specimen Preparation Sequence;0040,0610
-Specimen Short Description;0040,0600
-Specimen UID;0040,0554
-Start Acquisition DateTime;0018,9516
-Station Name;0008,1010
-Storage Media File-set UID;0088,0140
-Structure Set Date;3006,0008
-Structure Set Description;3006,0006
-Structure Set Label;3006,0002
-Structure Set Name;3006,0004
-Structure Set Time;3006,0009
-Study Arrival Date;0032,1040
-Study Arrival Time;0032,1041
-Study Comments;0032,4000
-Study Completion Date;0032,1050
-Study Completion Time;0032,1051
-Study Date;0008,0020
-Study Description;0008,1030
-Study ID;0020,0010
-Study ID Issuer;0032,0012
-Study Instance UID;0020,000D
-Study Read Date;0032,0034
-Study Read Time;0032,0035
-Study Time;0008,0030
-Study Verified Date;0032,0032
-Study Verified Time;0032,0033
-Substance Administration DateTime;0044,0010
-Synchronization Frame of Reference UID;0020,0200
-Target UID;0018,2042
-Telephone Number (Trial);0040,A354
-Template Extension Creator UID;0040,DB0D
-Template Extension Organization UID;0040,DB0C
-Template Local Version;0040,DB07
-Template Version;0040,DB06
-Text Comments;4000,4000
-Text String;2030,0020
-Time;0040,A122
-Time of Document or Verbal Transaction (Trial);0040,A112
-Time of Last Calibration;0018,1201
-Time of Last Detector Calibration;0018,700E
-Time of Secondary Capture;0018,1014
-Timezone Offset From UTC;0008,0201
-Topic Author;0088,0910
-Topic Keywords;0088,0912
-Topic Subject;0088,0906
-Topic Title;0088,0904
-Tracking UID;0062,0021
-Transaction UID;0008,1195
-Transducer Identification Sequence;0018,5011
-Treatment Control Point Date;3008,0024
-Treatment Control Point Time;3008,0025
-Treatment Date;3008,0250
-Treatment Machine Name;300A,00B2
-Treatment Position Group Label;300A,0608
-Treatment Position Group UID;300A,0609
-Treatment Session UID;300A,0700
-Treatment Site;3010,0077
-Treatment Sites;300A,000B
-Treatment Technique Notes;3010,007A
-Treatment Time;3008,0251
-Treatment Tolerance Violation DateTime;300A,0736
-Treatment Tolerance Violation Description;300A,0734
-UDI Sequence;0018,100A
-UID;0040,A124
-Unique Device Identifier;0018,1009
-User Content Label;3010,0033
-User Content Long Label;3010,0034
-Verbal Source (Trial);0040,A352
-Verbal Source Identifier Code Sequence (Trial);0040,A358
-Verification DateTime;0040,A030
-Verifying Observer Identification Code Sequence;0040,A088
-Verifying Observer Name;0040,A075
-Verifying Observer Sequence;0040,A073
-Verifying Organization;0040,A027
-Visit Comments;0038,4000
-X-Ray Detector ID;0018,9371
-X-Ray Detector Label;0018,9373
-X-Ray Source ID;0018,9367
+atr_name	tag
+Accession Number	0008,0050
+Acquisition Comments	0018,4000
+Acquisition Conte...	0040,0555
+Acquisition Date	0008,0022
+Acquisition DateTime	0008,002A
+Acquisition Devic...	0018,1400
+Acquisition Field...	0018,11BB
+Acquisition Proto...	0018,9424
+Acquisition Time	0008,0032
+Acquisition UID	0008,0017
+Actual Human Perf...	0040,4035
+Additional Patien...	0010,21B0
+Address (Trial)	0040,A353
+Admission ID	0038,0010
+Admitting Date	0038,0020
+Admitting Diagnos...	0008,1084
+Admitting Diagnos...	0008,1080
+Admitting Time	0038,0021
+Affected SOP Inst...	0000,1000
+Allergies	0010,2110
+Annotation Group ...	006A,0006
+Annotation Group ...	006A,0005
+Annotation Group UID	006A,0003
+Approval Status D...	0044,0004
+Arbitrary	4000,0010
+Assertion DateTime	0044,0104
+Assertion Expirat...	0044,0105
+Attribute Modific...	0400,0562
+Author Observer S...	0040,A078
+Barcode Value	2200,0005
+Beam Description	300A,00C3
+Beam Hold Transit...	300C,0127
+Bolus Description	300A,00DD
+Branch of Service	0010,1081
+Calibration Date	0014,407E
+Calibration DateTime	0018,1203
+Calibration Time	0014,407C
+Camera Owner Name	0016,004D
+Cassette ID	0018,1007
+Certified Timestamp	0400,0310
+Clinical Trial Co...	0012,0060
+Clinical Trial Pr...	0012,0082
+Clinical Trial Pr...	0012,0081
+Clinical Trial Pr...	0012,0020
+Clinical Trial Pr...	0012,0021
+Clinical Trial Se...	0012,0072
+Clinical Trial Se...	0012,0071
+Clinical Trial Si...	0012,0030
+Clinical Trial Si...	0012,0031
+Clinical Trial Sp...	0012,0010
+Clinical Trial Su...	0012,0040
+Clinical Trial Su...	0012,0042
+Clinical Trial Ti...	0012,0051
+Clinical Trial Ti...	0012,0050
+Comments on Radia...	0040,0310
+Comments on the P...	0040,0280
+Compensator Descr...	300A,02EB
+Concatenation UID	0020,9161
+Conceptual Volume...	3010,000F
+Conceptual Volume...	3010,0017
+Conceptual Volume...	3010,0006
+Confidentiality C...	0040,3001
+Constituent Conce...	3010,0013
+Consulting Physic...	0008,009C
+Consulting Physic...	0008,009D
+Container Compone...	0050,001B
+Container Descrip...	0040,051A
+Container Identifier	0040,0512
+Content Creator's...	0070,0086
+Content Creator's...	0070,0084
+Content Date	0008,0023
+Content Sequence	0040,A730
+Content Time	0008,0033
+Context Group Loc...	0008,0107
+Context Group Ver...	0008,0106
+Contrast/Bolus Agent	0018,0010
+Contrast/Bolus St...	0018,1042
+Contrast/Bolus St...	0018,1043
+Contribution Date...	0018,A002
+Contribution Desc...	0018,A003
+Country of Residence	0010,2150
+Creation Date	2100,0040
+Creation Time	2100,0050
+Current Observer ...	0040,A307
+Current Patient L...	0038,0300
+Curve Data	50xx,xxxx
+Curve Date	0008,0025
+Curve Time	0008,0035
+Custodial Organiz...	0040,A07C
+Data Set Trailing...	FFFC,FFFC
+Date	0040,A121
+Date of Document ...	0040,A110
+Date of Last Cali...	0018,1200
+Date of Last Dete...	0018,700C
+Date of Secondary...	0018,1012
+DateTime	0040,A120
+DateTime of Last ...	0018,1202
+Decay Correction ...	0018,9701
+Decomposition Des...	0018,937F
+Derivation Descri...	0008,2111
+Detector ID	0018,700A
+Device Alternate ...	3010,001B
+Device Description	0050,0020
+Device Label	3010,002D
+Device Serial Number	0018,1000
+Device Setting De...	0016,004B
+Device UID	0018,1002
+Digital Signature...	0400,0105
+Digital Signature...	FFFA,FFFA
+Digital Signature...	0400,0100
+Dimension Organiz...	0020,9164
+Discharge Date	0038,0030
+Discharge Diagnos...	0038,0040
+Discharge Time	0038,0032
+Displacement Refe...	300A,079A
+Distribution Address	4008,011A
+Distribution Name	4008,0119
+Dose Reference De...	300A,0016
+Dose Reference UID	300A,0013
+Dosimetric Object...	3010,006E
+Effective DateTime	0068,6226
+End Acquisition D...	0018,9517
+Entity Description	3010,0037
+Entity Label	3010,0035
+Entity Long Label	3010,0038
+Entity Name	3010,0036
+Equipment Frame o...	300A,0676
+Ethics Committee ...	0012,0087
+Ethics Committee ...	0012,0086
+Ethnic Group	0010,2160
+Exclusion Start D...	0018,9804
+Expected Completi...	0040,4011
+Failed SOP Instan...	0008,0058
+Fiducial UID	0070,031A
+Filler Order Numb...	0040,2017
+Findings Group Re...	0040,A023
+Findings Group Re...	0040,A024
+First Treatment Date	3008,0054
+Fixation Device D...	300A,0196
+Flow Identifier	0034,0002
+Flow Identifier S...	0034,0001
+Fractionation Notes	3010,007F
+Fraction Group De...	300A,0072
+Frame Acquisition...	0018,9074
+Frame Comments	0020,9158
+Frame of Referenc...	0020,0052
+Frame Origin Time...	0034,0007
+Frame Reference D...	0018,9151
+Functional Sync P...	0018,9623
+Gantry ID	0018,1008
+Generator ID	0018,1005
+GPS Altitude​	0016,0076
+GPS Altitude​ Ref	0016,0075
+GPS Area ​Informa...	0016,008C
+GPS Date​ Stamp	0016,008D
+GPS Dest ​Bearing	0016,0088
+GPS Dest​ Bearing...	0016,0087
+GPS Dest ​Distance	0016,008A
+GPS Dest ​Distanc...	0016,0089
+GPS Dest​ Latitude	0016,0084
+GPS Dest​ Latitud...	0016,0083
+GPS Dest ​Longitude	0016,0086
+GPS Dest ​Longitu...	0016,0085
+GPS Differential	0016,008E
+GPS DOP	0016,007B
+GPS Img ​Direction	0016,0081
+GPS Img​ Directio...	0016,0080
+GPS Latitude​	0016,0072
+GPS Latitude​ Ref	0016,0071
+GPS Longitude	0016,0074
+GPS Longitude Ref	0016,0073
+GPS Map​ Datum	0016,0082
+GPS Measure ​Mode	0016,007A
+GPS Processing​ M...	0016,008B
+GPS Satellites	0016,0078
+GPS Speed​	0016,007D
+GPS Speed​ Ref	0016,007C
+GPS Status	0016,0079
+GPS Time​ Stamp	0016,0077
+GPS Track	0016,007F
+GPS Track ​Ref	0016,007E
+GPS Version ID	0016,0070
+Graphic Annotatio...	0070,0001
+Hanging Protocol ...	0072,000A
+HL7 Document Effe...	0040,E004
+Human Performer's...	0040,4037
+Human Performer's...	0040,4036
+Icon Image Sequen...	0088,0200
+Identifying Comments	0008,4000
+Image Comments	0020,4000
+Image Presentatio...	0028,4000
+Imaging Service R...	0040,2400
+Impedance Measure...	003A,0314
+Impressions	4008,0300
+Information Issue...	0068,6270
+Instance Coercion...	0008,0015
+Instance Creation...	0008,0012
+Instance Creation...	0008,0013
+Instance Creator UID	0008,0014
+Instance Origin S...	0400,0600
+Institution Address	0008,0081
+Institutional Dep...	0008,1040
+Institutional Dep...	0008,1041
+Institution Code ...	0008,0082
+Institution Name	0008,0080
+Instruction Perfo...	0018,9919
+Insurance Plan Id...	0010,1050
+Intended Fraction...	3010,0085
+Intended Phase En...	3010,004D
+Intended Phase St...	3010,004C
+Intended Recipien...	0040,1011
+Interlock DateTime	300A,0741
+Interlock Descrip...	300A,0742
+Interlock Origin ...	300A,0783
+Interpretation Ap...	4008,0112
+Interpretation Ap...	4008,0113
+Interpretation Ap...	4008,0111
+Interpretation Au...	4008,010C
+Interpretation Di...	4008,0115
+Interpretation ID	4008,0200
+Interpretation ID...	4008,0202
+Interpretation Re...	4008,0100
+Interpretation Re...	4008,0101
+Interpretation Re...	4008,0102
+Interpretation Text	4008,010B
+Interpretation Tr...	4008,010A
+Interpretation Tr...	4008,0108
+Interpretation Tr...	4008,0109
+Intervention Drug...	0018,0035
+Intervention Drug...	0018,0027
+Irradiation Event...	0008,3010
+Issue Date of Ima...	0040,2004
+Issuer of Admissi...	0038,0011
+Issuer of Admissi...	0038,0014
+Issuer of Patient ID	0010,0021
+Issuer of Service...	0038,0061
+Issuer of Service...	0038,0064
+Issuer of the Con...	0040,0513
+Issuer of the Spe...	0040,0562
+Issue Time of Ima...	0040,2005
+Label Text	2200,0002
+Large Palette Col...	0028,1214
+Last Menstrual Date	0010,21D0
+Lens Make	0016,004F
+Lens Model	0016,0050
+Lens Serial Number	0016,0051
+Lens Specification	0016,004E
+Long Device Descr...	0050,0021
+MAC	0400,0404
+Maker Note	0016,002B
+Manufacturer's De...	0018,100B
+Manufacturer's De...	3010,0043
+Media Storage SOP...	0002,0003
+Medical Alerts	0010,2000
+Medical Record Lo...	0010,1090
+Military Rank	0010,1080
+Modified Attribut...	0400,0550
+Modified Image Date	0020,3403
+Modified Image De...	0020,3406
+Modified Image Time	0020,3405
+Modifying Device ID	0020,3401
+Modifying System	0400,0563
+Most Recent Treat...	3008,0056
+Multi-energy Acqu...	0018,937B
+Multiplex Group UID	003A,0310
+Name of Physician...	0008,1060
+Names of Intended...	0040,1010
+Nonconforming Dat...	0400,0552
+Nonconforming Mod...	0400,0551
+Observation Date ...	0040,A192
+Observation DateTime	0040,A032
+Observation Start...	0040,A033
+Observation Subje...	0040,A402
+Observation Time ...	0040,A193
+Observation UID	0040,A171
+Occupation	0010,2180
+Operator Identifi...	0008,1072
+Operators' Name	0008,1070
+Order Callback Ph...	0040,2010
+Order Callback Te...	0040,2011
+Order Entered By	0040,2008
+Order Enterer's L...	0040,2009
+Original Attribut...	0400,0561
+Other Patient IDs	0010,1000
+Other Patient IDs...	0010,1002
+Other Patient Names	0010,1001
+Overlay Comments	60xx,4000
+Overlay Data	60xx,3000
+Overlay Date	0008,0024
+Overlay Time	0008,0034
+Override DateTime	300A,0760
+Palette Color Loo...	0028,1199
+Participant Sequence	0040,A07A
+Participation Dat...	0040,A082
+Patient's Address	0010,1040
+Patient's Age	0010,1010
+Patient's Birth Date	0010,0030
+Patient's Birth Name	0010,1005
+Patient's Birth Time	0010,0032
+Patient's Institu...	0038,0400
+Patient's Insuran...	0010,0050
+Patient's Mother'...	0010,1060
+Patient's Name	0010,0010
+Patient's Primary...	0010,0101
+Patient's Primary...	0010,0102
+Patient's Religio...	0010,21F0
+Patient's Sex	0010,0040
+Patient's Sex Neu...	0010,2203
+Patient's Size	0010,1020
+Patient's Telecom...	0010,2155
+Patient's Telepho...	0010,2154
+Patient's Weight	0010,1030
+Patient Comments	0010,4000
+Patient ID	0010,0020
+Patient Setup Pho...	300A,0794
+Patient Setup UID	300A,0650
+Patient State	0038,0500
+Patient Transport...	0040,1004
+Patient Treatment...	300A,0792
+Patient Treatment...	300A,078E
+Performed Location	0040,0243
+Performed Procedu...	0040,0254
+Performed Procedu...	0040,0250
+Performed Procedu...	0040,4051
+Performed Procedu...	0040,0251
+Performed Procedu...	0040,0253
+Performed Procedu...	0040,0244
+Performed Procedu...	0040,4050
+Performed Procedu...	0040,0245
+Performed Station...	0040,0241
+Performed Station...	0040,4030
+Performed Station...	0040,0242
+Performed Station...	0040,4028
+Performing Physic...	0008,1050
+Performing Physic...	0008,1052
+Person's Address	0040,1102
+Person's Telecom ...	0040,1104
+Person's Telephon...	0040,1103
+Person Identifica...	0040,1101
+Person Name	0040,A123
+Physician(s) of R...	0008,1048
+Physician(s) of R...	0008,1049
+Physician(s) Read...	0008,1062
+Physician Approvi...	4008,0114
+Placer Order Numb...	0040,2016
+Plate ID	0018,1004
+Pregnancy Status	0010,21C0
+Pre-Medication	0040,0012
+Prescription Desc...	300A,000E
+Prescription Notes	3010,007B
+Prescription Note...	3010,0081
+Presentation Crea...	0070,0082
+Presentation Crea...	0070,0083
+Presentation Disp...	0070,1101
+Presentation Sequ...	0070,1102
+Prior Treatment D...	3010,0061
+Private attributes	gggg,eeee where gggg is odd
+Procedure Step Ca...	0040,4052
+Product Expiratio...	0044,000B
+Protocol Name	0018,1030
+Pyramid Description	0008,1088
+Pyramid Label	0020,0027
+Pyramid UID	0008,0019
+Radiation Dose Id...	300A,0619
+Radiation Dose In...	300A,0623
+Radiation Generat...	300A,067D
+Radiation Generat...	300A,067C
+Radiopharmaceutic...	0018,1078
+Radiopharmaceutic...	0018,1072
+Radiopharmaceutic...	0018,1079
+Radiopharmaceutic...	0018,1073
+Reason for Omissi...	300C,0113
+Reason for Reques...	0040,100A
+Reason for Study	0032,1030
+Reason for Supers...	3010,005C
+Reason for the At...	0400,0565
+Reason for the Im...	0040,2001
+Reason for the Re...	0040,1002
+Reason for Visit	0032,1066
+Reason for Visit ...	0032,1067
+Recorded RT Contr...	300A,073A
+Referenced Concep...	3010,000B
+Referenced DateTime	0040,A13A
+Referenced Digita...	0400,0402
+Referenced Dose R...	300A,0083
+Referenced Dosime...	3010,006F
+Referenced Fiduci...	3010,0031
+Referenced Frame ...	3006,0024
+Referenced Genera...	0040,4023
+Referenced Image ...	0008,1140
+Referenced Observ...	0040,A172
+Referenced Patien...	0038,0004
+Referenced Patien...	0010,1100
+Referenced Patien...	0008,1120
+Referenced Perfor...	0008,1111
+Referenced SOP In...	0400,0403
+Referenced SOP In...	0008,1155
+Referenced SOP In...	0004,1511
+Referenced Study ...	0008,1110
+Referenced Treatm...	300A,0785
+Referring Physici...	0008,0092
+Referring Physici...	0008,0090
+Referring Physici...	0008,0094
+Referring Physici...	0008,0096
+Region of Residence	0010,2152
+Related Frame of ...	3006,00C2
+Request Attribute...	0040,0275
+Requested Contras...	0032,1070
+Requested Procedu...	0040,1400
+Requested Procedu...	0032,1060
+Requested Procedu...	0040,1001
+Requested Procedu...	0040,1005
+Requested Series ...	0018,9937
+Requested SOP Ins...	0000,1001
+Requesting Physician	0032,1032
+Requesting Service	0032,1033
+Respiratory Motio...	0018,9185
+Responsible Organ...	0010,2299
+Responsible Person	0010,2297
+Results Comments	4008,4000
+Results Distribut...	4008,0118
+Results ID	4008,0040
+Results ID Issuer	4008,0042
+Review Date	300E,0004
+Reviewer Name	300E,0008
+Review Time	300E,0005
+ROI Description	3006,0028
+ROI Generation De...	3006,0038
+ROI Interpreter	3006,00A6
+ROI Name	3006,0026
+ROI Observation D...	3006,0088
+ROI Observation L...	3006,0085
+RT Accessory Devi...	300A,0615
+RT Accessory Hold...	300A,0611
+RT Physician Inte...	3010,005A
+RT Plan Date	300A,0006
+RT Plan Description	300A,0004
+RT Plan Label	300A,0002
+RT Plan Name	300A,0003
+RT Plan Time	300A,0007
+RT Prescription L...	3010,0054
+RT Tolerance Set ...	300A,062A
+RT Treatment Appr...	3010,0056
+RT Treatment Phas...	3010,003B
+Safe Position Exi...	3008,0162
+Safe Position Exi...	3008,0164
+Safe Position Ret...	3008,0166
+Safe Position Ret...	3008,0168
+Scheduled Admissi...	0038,001A
+Scheduled Admissi...	0038,001B
+Scheduled Dischar...	0038,001C
+Scheduled Dischar...	0038,001D
+Scheduled Human P...	0040,4034
+Scheduled Patient...	0038,001E
+Scheduled Perform...	0040,0006
+Scheduled Perform...	0040,000B
+Scheduled Procedu...	0040,0007
+Scheduled Procedu...	0040,0004
+Scheduled Procedu...	0040,0005
+Scheduled Procedu...	0040,4008
+Scheduled Procedu...	0040,0009
+Scheduled Procedu...	0040,0011
+Scheduled Procedu...	0040,4010
+Scheduled Procedu...	0040,0002
+Scheduled Procedu...	0040,4005
+Scheduled Procedu...	0040,0003
+Scheduled Station...	0040,0001
+Scheduled Station...	0040,4027
+Scheduled Station...	0040,0010
+Scheduled Station...	0040,4025
+Scheduled Study L...	0032,1020
+Scheduled Study L...	0032,1021
+Scheduled Study S...	0032,1000
+Scheduled Study S...	0032,1001
+Scheduled Study S...	0032,1010
+Scheduled Study S...	0032,1011
+Selector AS Value	0072,005F
+Selector DA Value	0072,0061
+Selector DT Value	0072,0063
+Selector LO Value	0072,0066
+Selector LT Value	0072,0068
+Selector OB Value	0072,0065
+Selector PN Value	0072,006A
+Selector SH Value	0072,006C
+Selector ST Value	0072,006E
+Selector TM Value	0072,006B
+Selector UN Value	0072,006D
+Selector UR Value	0072,0071
+Selector UT Value	0072,0070
+Series Date	0008,0021
+Series Description	0008,103E
+Series Instance UID	0020,000E
+Series Time	0008,0031
+Service Episode D...	0038,0062
+Service Episode ID	0038,0060
+Setup Technique D...	300A,01B2
+Shielding Device ...	300A,01A6
+Slide Identifier	0040,06FA
+Smoking Status	0010,21A0
+SOP Authorization...	0100,0420
+SOP Instance UID	0008,0018
+Source Conceptual...	3010,0015
+Source End DateTime	0018,936A
+Source Identifier	0034,0005
+Source Image Sequ...	0008,2112
+Source Manufacturer	300A,0216
+Source of Previou...	0400,0564
+Source Serial Number	3008,0105
+Source Start Date...	0018,9369
+Source Strength R...	300A,022C
+Source Strength R...	300A,022E
+Special Needs	0038,0050
+Specimen Accessio...	0040,050A
+Specimen Detailed...	0040,0602
+Specimen Identifier	0040,0551
+Specimen Preparat...	0040,0610
+Specimen Short De...	0040,0600
+Specimen UID	0040,0554
+Start Acquisition...	0018,9516
+Station Name	0008,1010
+Storage Media Fil...	0088,0140
+Structure Set Date	3006,0008
+Structure Set Des...	3006,0006
+Structure Set Label	3006,0002
+Structure Set Name	3006,0004
+Structure Set Time	3006,0009
+Study Arrival Date	0032,1040
+Study Arrival Time	0032,1041
+Study Comments	0032,4000
+Study Completion ...	0032,1050
+Study Completion ...	0032,1051
+Study Date	0008,0020
+Study Description	0008,1030
+Study ID	0020,0010
+Study ID Issuer	0032,0012
+Study Instance UID	0020,000D
+Study Read Date	0032,0034
+Study Read Time	0032,0035
+Study Time	0008,0030
+Study Verified Date	0032,0032
+Study Verified Time	0032,0033
+Substance Adminis...	0044,0010
+Synchronization F...	0020,0200
+Target UID	0018,2042
+Telephone Number ...	0040,A354
+Template Extensio...	0040,DB0D
+Template Extensio...	0040,DB0C
+Template Local Ve...	0040,DB07
+Template Version	0040,DB06
+Text Comments	4000,4000
+Text String	2030,0020
+Time	0040,A122
+Time of Document ...	0040,A112
+Time of Last Cali...	0018,1201
+Time of Last Dete...	0018,700E
+Time of Secondary...	0018,1014
+Timezone Offset F...	0008,0201
+Topic Author	0088,0910
+Topic Keywords	0088,0912
+Topic Subject	0088,0906
+Topic Title	0088,0904
+Tracking UID	0062,0021
+Transaction UID	0008,1195
+Transducer Identi...	0018,5011
+Treatment Control...	3008,0024
+Treatment Control...	3008,0025
+Treatment Date	3008,0250
+Treatment Machine...	300A,00B2
+Treatment Positio...	300A,0608
+Treatment Positio...	300A,0609
+Treatment Session...	300A,0700
+Treatment Site	3010,0077
+Treatment Sites	300A,000B
+Treatment Techniq...	3010,007A
+Treatment Time	3008,0251
+Treatment Toleran...	300A,0736
+Treatment Toleran...	300A,0734
+UDI Sequence	0018,100A
+UID	0040,A124
+Unique Device Ide...	0018,1009
+User Content Label	3010,0033
+User Content Long...	3010,0034
+Verbal Source (Tr...	0040,A352
+Verbal Source Ide...	0040,A358
+Verification Date...	0040,A030
+Verifying Observe...	0040,A088
+Verifying Observe...	0040,A075
+Verifying Observe...	0040,A073
+Verifying Organiz...	0040,A027
+Visit Comments	0038,4000
+X-Ray Detector ID	0018,9371
+X-Ray Detector Label	0018,9373
+X-Ray Source ID	0018,9367
