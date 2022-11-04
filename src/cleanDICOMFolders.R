@@ -1,4 +1,4 @@
-pacman::p_load(here)
+pacman::p_load(here, tidyverse)
 
 cleanFolders <- function(modRoot) {
   allFiles <- list.files(path = modRoot, all.files = T, recursive = T, full.names = T)
@@ -11,7 +11,7 @@ cleanFolders <- function(modRoot) {
   
   unlink(x = test$allFiles, recursive = T)
   
-  patientDirs <- list.dirs(path = modRoot, recursive = F)
+  patientDirs <- list.dirs(path = modRoot, recursive = T)
   
   for(dir in patientDirs) {
     unlink(x = here(dir, "HELP"), recursive = T, force = T)

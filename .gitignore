@@ -1,5 +1,7 @@
+data/
 raw/
 modify/
 docs/
+export/
 .Rproj.user
 .Rhistory
